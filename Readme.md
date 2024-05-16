@@ -83,7 +83,7 @@ var response = apiClient.Execute(queryOptions);
 if(response.error != null) {
 	Console.WriteLine(response.error);
 } else {
-    var jsonResponse = JsonConvert.SerializeObject(response.data, Newtonsoft.Json.Formatting.Indented);
+    var jsonResponse = JsonConvert.SerializeObject(response, Newtonsoft.Json.Formatting.Indented);
     Console.WriteLine(jsonResponse);
 }
 ```
@@ -160,9 +160,9 @@ if(response.error != null) {
     "developerUrl": "https://apps.apple.com/us/developer/king/id526656015?uo=4",
     "developerWebsite": "http://candycrushsaga.com/",
     "score": 4.70614,
-    "reviews": 3230613,
+    "reviews": 3233691,
     "currentVersionScore": 4.70614,
-    "currentVersionReviews": 3230613,
+    "currentVersionReviews": 3233691,
     "screenshots": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/e3/03/cfe303a7-e326-c820-0e90-bff6c6636ca4/984b2f1b-2c41-4dbb-80f7-345470b7dbc5__sta_ios-6s_1242x2208_1.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/75/23/167523ad-380d-8502-992d-c28db14ae247/66fb12f9-e3d4-4234-a862-ca1a3514f0e7_285580_ccs_store-revamp_sta_ios-6s_1242x2208_2_en.jpg/392x696bb.jpg",
