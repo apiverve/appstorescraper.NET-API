@@ -32,9 +32,9 @@ From within Visual Studio:
 
 1. Open the Solution Explorer.
 2. Right-click on a project within your solution.
-3. Click on Manage NuGet Packages...
+3. Click on Manage NuGet Packages..
 4. Click on the Browse tab and search for "APIVerve.API.AppStoreScraper".
-5. Click on the APIVerve.API.AppStoreScraper package, select the appropriate version in the right-tab and click Install.
+5. Click on the APIVerve.API.AppStoreScraper package, click Install.
 
 
 ---
@@ -99,8 +99,8 @@ if(response.error != null) {
     "appId": "com.midasplayer.apps.candycrushsaga",
     "title": "Candy Crush Saga",
     "url": "https://apps.apple.com/us/app/candy-crush-saga/id553834731?uo=4",
-    "description": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions of players around the world.  With over a trillion levels played, this sweet match 3 puzzle game is one of the most popular mobile games of all time!  Switch and match Candies in this tasty puzzle adventure to progress to the next level for that sweet winning feeling! Solve puzzles with quick thinking and smart moves, and be rewarded with delicious rainbow-colored cascades and tasty candy combos!  Plan your moves by matching 3 or more candies in a row, using boosters wisely in order to overcome those extra sticky puzzles! Blast the chocolate and collect sweet candy across thousands of levels, guaranteed to have you craving more!  Candy Crush Saga features:  THE GAME THAT KEEPS YOU CRAVING MORE Thousands of the best levels and puzzles in the Candy Kingdom and with more added every 2 weeks your sugar fix is never far away!   MANY WAYS TO WIN REWARDS Check back daily and spin the Daily Booster Wheel to receive free tasty rewards, and take part in time limited challenges to earn boosters to help you level up!    VARIETY OF SUGAR-COATED CHALLENGES Sweet ways to play: Game modes including Target Score, Clear the Jelly, Collect the Ingredients and Order Mode  PLAY ALONE OR WITH FRIENDS Get to the top of the leaderboard events and compare scores with friends and competitors!  Levels range from easy to hard for all adults to enjoy – accessible on-the-go, offline and online. It's easy to sync the game between devices and unlock full game features when connected to the Internet or Wifi. Follow us to get news and updates; facebook.com/CandyCrushSaga, Twitter @CandyCrushSaga, Youtube https://www.youtube.com/user/CandyCrushOfficial Visit https://community.king.com/en/candy-crush-saga to access the Community and competitions! Candy Crush Saga is completely free to play but some optional in-game items will require payment. You can turn off the payment feature by disabling in-app purchases in your device’s settings. By downloading this game you are agreeing to our terms of service; http://about.king.com/consumer-terms/terms  Do not sell my data: King shares your personal information with advertising partners to personalize ads. Learn more at https://king.com/privacyPolicy.  If you wish to exercise your Do Not Sell My Data rights, you can do so by contacting us via the in game help centre or by going to https://soporto.king.com/  Have fun playing Candy Crush Saga the sweetest match 3 puzzle game around!   If you enjoy playing Candy Crush Saga, you may also enjoy its sister puzzle games; Candy Crush Soda Saga, Candy Crush Jelly Saga and Candy Crush Friends Saga!  All Stars Tournament Selected level 25+. 18+. In-game tournament 09:00 EDT 28th March - 09:00 EDT 28th April 2024. Participating countries only. Win the in-game tournament and receive an invite to the live contest in California, June 2024. Requires US travel. T&Cs: candycrush-saga.web.app/pages/all_stars_terms. © 2024 King.com Ltd.",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/0c/21/e10c211b-6ffc-daae-978b-694fa3aa2b14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "description": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions of players around the world.  With over a trillion levels played, this sweet match 3 puzzle game is one of the most popular mobile games of all time!  Switch and match Candies in this tasty puzzle adventure to progress to the next level for that sweet winning feeling! Solve puzzles with quick thinking and smart moves, and be rewarded with delicious rainbow-colored cascades and tasty candy combos!  Plan your moves by matching 3 or more candies in a row, using boosters wisely in order to overcome those extra sticky puzzles! Blast the chocolate and collect sweet candy across thousands of levels, guaranteed to have you craving more!  Candy Crush Saga features:  THE GAME THAT KEEPS YOU CRAVING MORE Thousands of the best levels and puzzles in the Candy Kingdom and with more added every 2 weeks your sugar fix is never far away!   MANY WAYS TO WIN REWARDS Check back daily and spin the Daily Booster Wheel to receive free tasty rewards, and take part in time limited challenges to earn boosters to help you level up!    VARIETY OF SUGAR-COATED CHALLENGES Sweet ways to play: Game modes including Target Score, Clear the Jelly, Collect the Ingredients and Order Mode  PLAY ALONE OR WITH FRIENDS Get to the top of the leaderboard events and compare scores with friends and competitors!  Levels range from easy to hard for all adults to enjoy – accessible on-the-go, offline and online. It's easy to sync the game between devices and unlock full game features when connected to the Internet or Wifi. Follow us to get news and updates; facebook.com/CandyCrushSaga, Twitter @CandyCrushSaga, Youtube https://www.youtube.com/user/CandyCrushOfficial Visit https://community.king.com/en/candy-crush-saga to access the Community and competitions! Candy Crush Saga is completely free to play but some optional in-game items will require payment. You can turn off the payment feature by disabling in-app purchases in your device’s settings. By downloading this game you are agreeing to our terms of service; http://about.king.com/consumer-terms/terms  Do not sell my data: King shares your personal information with advertising partners to personalize ads. Learn more at https://king.com/privacyPolicy.  If you wish to exercise your Do Not Sell My Data rights, you can do so by contacting us via the in game help centre or by going to https://soporto.king.com/  Have fun playing Candy Crush Saga the sweetest match 3 puzzle game around!   If you enjoy playing Candy Crush Saga, you may also enjoy its sister puzzle games; Candy Crush Soda Saga, Candy Crush Jelly Saga and Candy Crush Friends Saga!  All Stars Tournament Selected level 25+. 18+. In-game event from 12:00 EDT 20 March to 03:00 EDT 27 April, 2025. Participating countries only. Void where prohibited. Win the in-game event and receive an invite to the live contest 11-13 June in California for a chance to win a share of $1,000,000 USD. Requires US travel. T&Cs: to.king.com/terms. Candy Crush Saga contains optional in-game purchases. © 2025 King.com Ltd. “King”, “Candy Crush All Stars\" and associated marks and logos are trademarks of King.com Ltd or related entities.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/ba/74/0eba74f1-0df1-dddb-230a-aefe5f8fc62a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
     "genres": [
       "Games",
       "Entertainment",
@@ -147,12 +147,12 @@ if(response.error != null) {
       "TR",
       "VI"
     ],
-    "size": "374926336",
+    "size": "400304128",
     "requiredOsVersion": "12.0.0",
     "released": "2012-11-14T14:41:32Z",
-    "updated": "2024-08-28T06:09:04Z",
-    "releaseNotes": "We hope you’re having fun playing Candy Crush Saga! We update the game every week so don't forget to download the latest version to get all the sweet new features and levels!\n\nNew to the game? Don’t be shy, join the fun!",
-    "version": "1.285.0.1",
+    "updated": "2025-02-12T06:54:38Z",
+    "releaseNotes": "We hope you’re having fun playing Candy Crush Saga! \n\nWe update the game every week with sweet new features, exciting levels, and important bug fixes to keep everything running smoothly. \n\nDon't forget to download the latest version for the best experience!\n\nNew to the game? Don’t be shy, join the fun!",
+    "version": "1.296.0.1",
     "price": 0,
     "currency": "USD",
     "free": true,
@@ -160,10 +160,10 @@ if(response.error != null) {
     "developer": "King",
     "developerUrl": "https://apps.apple.com/us/developer/king/id526656015?uo=4",
     "developerWebsite": "http://candycrushsaga.com/",
-    "score": 4.70587,
-    "reviews": 3336492,
-    "currentVersionScore": 4.70587,
-    "currentVersionReviews": 3336492,
+    "score": 4.70727,
+    "reviews": 3547335,
+    "currentVersionScore": 4.70727,
+    "currentVersionReviews": 3547335,
     "screenshots": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/3d/2f/e33d2f6b-4dbd-17e3-0c0a-7139a382dc4a/e7363b16-199a-4326-a0b2-6b7e1283f711_v4-candies_478284_423160_CCS_Creative_Results_First_Screenshots_Nov_23_sta_ios-6s_1242x2208_4.jpg/392x696bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/4e/c5/604ec5b5-e6e5-b28e-417f-76c8a7ec397b/cbad1cb5-2271-4d88-9124-ee1005d38939_479855_CCS_Rewording_Taglines_Screenshots_Nov_23_route4_sta_ios-6s_1242x2208_1.jpg/392x696bb.jpg",
@@ -288,7 +288,13 @@ if(response.error != null) {
       "iPadPro11M4-iPadPro11M4",
       "iPadPro11M4Cellular-iPadPro11M4Cellular",
       "iPadPro13M4-iPadPro13M4",
-      "iPadPro13M4Cellular-iPadPro13M4Cellular"
+      "iPadPro13M4Cellular-iPadPro13M4Cellular",
+      "iPhone16-iPhone16",
+      "iPhone16Plus-iPhone16Plus",
+      "iPhone16Pro-iPhone16Pro",
+      "iPhone16ProMax-iPhone16ProMax",
+      "iPadMiniA17Pro-iPadMiniA17Pro",
+      "iPadMiniA17ProCellular-iPadMiniA17ProCellular"
     ]
   },
   "code": 200
@@ -317,7 +323,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
